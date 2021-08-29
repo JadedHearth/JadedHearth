@@ -1,6 +1,12 @@
 ### Huh, you can make one of these?
 
 - I’m currently working on a [lua script for CC:Tweaked](https://github.com/WoodenMaxim/horizontal-quarry) if you want to see that. Have a good day!
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=WoodenMaxim&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoodenMaxim&layout=compact&theme=dark" />
+</p>
+
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
