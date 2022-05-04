@@ -1,6 +1,6 @@
 ### Huh, you can make one of these?
 
-I’m currently working on a [lua script for a CC:Tweaked mining turtle](https://github.com/WoodenMaxim/horizontal-quarry) if you want to see that.
+I’m currently working on [{currentProject}](https://www.youtube.com/watch?v=p7YXXieghto).
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=WoodenMaxim&show_icons=true&theme=github_dark&count_private=true&hide=contribs,issue" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoodenMaxim&layout=compact&theme=github_dark" />
