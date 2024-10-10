@@ -1,4 +1,4 @@
-I’m currently working on [FRC-2023-Swerve](https://github.com/awtybots/FRC-2023-Swerve) for FRC team 5829. Go Awtybots!
+I'm currently working on nothing in particular. C code coming soon! (probably)
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=JadedHearth&show_icons=true&theme=github_dark&count_private=true&hide=contribs,issue" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadedHearth&layout=compact&theme=github_dark" />
